@@ -1,0 +1,18 @@
+# Site settings
+title: Imperial College TV
+short-title: ICTV
+email: ictv@imperial.ac.uk
+short-description: The Student Television Station and Filmmaking Society of Imperial College
+description: > # this means to ignore newlines until "baseurl:"
+  The Student Television Station and Filmmaking Society of Imperial College
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://imperialcollege.tv/" # the base hostname & protocol for your site
+
+twitter-username: ICTelevision
+facebook-page: ImperialCollegeTV
+join-us: https://www.imperialcollegeunion.org/shop/club-society-project-products/stoic-tv-products
+# Build settings
+markdown: kramdown
+
+#permalink: pretty
+permalink: /:categories/:title/
