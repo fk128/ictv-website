@@ -22,19 +22,19 @@ questions:
   - question: >
       Can I borrow equipment for free?
     answer: >
-      If you are a member <strong>actively</strong> involved with ICTV, then you can in some instances borrow equipment for free for no more than two consecutive days. Actively involved means participating in ICTV filming projects, attending ICTV meeting, and/or making contributions of your time for the development of ICTV.
+      If you are a member <strong>actively</strong> involved with ICTV, then you can, in some instances, borrow equipment for free for no more than two consecutive days. Actively involved means participating in ICTV filming projects, attending ICTV meeting, and/or making contributions of your time for the development of ICTV.
   - question: >
       How can I book the shared studio?
     answer: >
       The shared studio is managed by the <a href="https://union.ic.ac.uk/media/mediagroup/">media group</a>. You can request a booking <a href="https://room-bookings.media.su.ic.ac.uk/">here</a>.
   - question: >
-       I am an active member of ICTV; How can I book equipement?
+       I am an active member of ICTV; How can I book equipment?
     answer: >
       You can do so <a href="https://imperialcollege.tv/bookings/">here</a>.
   - question: >
        I am a student, but not an Imperial College student. Can I still join?
     answer: >
-      Some external students can join ICTV. In order to do so, you would need to get an Imperial College Union associate membership, first. After you get that, you can buy ICTV membership from the Union website. You can find more details <a href=" https://www.imperialcollegeunion.org/your-union/how-were-run/membership">here</a> about obtaining an associate membership from Imperial College Union. If you encounter any issue, do get in touch with us.
+      Some external students can join ICTV. In order to do so, you would need to get an Imperial College Union associate membership. After you get that, you can buy ICTV membership from the Union website. You can find more details <a href=" https://www.imperialcollegeunion.org/your-union/how-were-run/membership">here</a> about obtaining an associate membership from Imperial College Union. If you encounter any issue, do get in touch with us.
 ---
 
 
