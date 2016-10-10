@@ -6,7 +6,7 @@ nav-order: 3
 ---
 
 
-To see our latest videos, check out our <a href="https://www.youtube.com/user/stoictv/" class="icon circle fa-youtube"><span class="label"> </span></a> Channel.
+
 
 
 <article>
@@ -28,6 +28,8 @@ To see our latest videos, check out our <a href="https://www.youtube.com/user/st
     <div class="RYPP-items"></div>
   </div>
 </div>
+<br>
+<p>To see our latest videos, check out our <a href="https://www.youtube.com/user/stoictv/" class="icon circle fa-youtube"><span class="label"> </span></a> Channel.</p>
 </article>
 <br>
 
